@@ -1,1 +1,1 @@
-# Pyxelize
+# Pyxelate
